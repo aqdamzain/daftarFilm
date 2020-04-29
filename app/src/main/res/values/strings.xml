@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Daftar Film</string>
+
+    <string name="movie">Movie Name</string>
+    <string name="years">Release</string>
+    <string name="duration">Duration</string>
+    <string name="time">time</string>
+    <string name="genre">Genre</string>
+    <string name="_genre">Type of genre</string>
+    <string name="like">Like</string>
+    <string name="share">Share</string>
+    <string name="synopsis">Sysnopsis content</string>
+    <string name="type">Type</string>
+    <string name="language">Laguage</string>
+    <string name="rating">Rating</string>
+    <string name="types">Types</string>
+    <string name="durations">Durations</string>
+    <string name="releases">Releases</string>
+    <string name="languages">Languages</string>
+    <string name="genres">Genres</string>
+    <string name="ratings">Ratings</string>
+
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Shows</string>
+    <string name="change_language_settings">Change language Settings</string>
+</resources>

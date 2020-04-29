@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="data_movies_name">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Deadpool 2</item>
+        <item>Dragon Ball Super: Broly</item>
+        <item>Preman Pensiun</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+    </string-array>
+
+    <string-array name="data_movies_year">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2019</item>
+    </string-array>
+
+    <string-array name="data_movies_type">
+        <item>Movie</item>
+        <item>Movie</item>
+        <item>Movie</item>
+        <item>Movie</item>
+        <item>Movie</item>
+        <item>Movie</item>
+        <item>Movie</item>
+        <item>Movie</item>
+        <item>Movie</item>
+        <item>Movie</item>
+    </string-array>
+
+    <string-array name="data_movies_duration">
+        <item>2h 16min</item>
+        <item>2h 23min</item>
+        <item>2h 29min</item>
+        <item>2h 4min</item>
+        <item>2h 14min</item>
+        <item>1h 54min</item>
+        <item>1h 59min</item>
+        <item>1h 40min</item>
+        <item>1h 34min</item>
+        <item>1h 44min</item>
+    </string-array>
+
+    <string-array name="data_movies_genre">
+        <item>Drama, Music, Romance</item>
+        <item>Action, Adventure, Fantasy, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Drama, Horror, Sci-Fi</item>
+        <item>Biography, Drama, Music</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Comedy, Sci-Fi</item>
+        <item>Animation, Action, Adventure, Family, Fantasy, Sci-Fi</item>
+        <item>Comedy, Drama</item>
+        <item>Animation, Action, Adventure, Family, Fantasy</item>
+    </string-array>
+
+    <string-array name="data_movies_language">
+        <item>English</item>
+        <item>English, Russian, Maori, Italian</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English, Cantonese, Spanish, Russian</item>
+        <item>Japanese, English</item>
+        <item>Indonesia</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="data_movies_synopsis">
+        <item>Jackson Maine, a famous country rock singer privately battling an alcohol and drug addiction, plays a concert. His main support is Bobby, his manager and older half-brother. After a show, Jack, searching for his next drink, visits a drag bar where he witnesses a tribute performance to Edith Piaf, by Ally, a waitress and singer-songwriter. Jack is amazed by her performance, and they spend the night talking to each other, where Ally discloses to him her unsuccessful efforts in pursuing a professional music career. Ally shares with Jack some lyrics she has been working on, and Jack tells Ally she is a talented songwriter and should perform her own material.</item>
+        <item>Arthur Curry, half human half from Atlantis, goes on a trip of a lifetime. Not only does this adventure compel him to come to terms with his real identity, but it also forces him to discover whether he is entirely worthy of fulfilling his own destiny: becoming a king.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain.</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a mother and her two children make a desperate bid to reach safety.</item>
+        <item>Bohemian Rhapsody is a foot-stomping celebration of Queen, their music and their extraordinary lead singer Freddie Mercury. Freddie defied stereotypes and shattered convention to become one of the most beloved entertainers on the planet. The film traces the meteoric rise of the band through their iconic songs and revolutionary sound. They reach unparalleled success, but in an unexpected turn Freddie, surrounded by darker influences, shuns Queen in pursuit of his solo career. Having suffered greatly without the collaboration of Queen, Freddie manages to reunite with his bandmates just in time for Live Aid. While bravely facing a recent AIDS diagnosis, Freddie leads the band in one of the greatest performances in the history of rock music. Queen cements a legacy that continues to inspire outsiders, dreamers and music lovers to this day.</item>
+        <item>On Cybertron, the Autobots, led by Optimus Prime, are on the verge of losing the Great Cybertronian War to their enemies, the Decepticons, and begin making preparations to leave the planet. The Decepticons led by Shockwave, Soundwave and Starscream ambush them during the evacuation, and Optimus sends a young scout, B-127, to Earth in order to set up a base of operations where the Autobots can regroup. B-127 reaches Earth alone in 1987, crash-landing in California and disrupting a training exercise being conducted by Sector 7, a secret government agency that monitors extraterrestrial activity on Earth. Sector 7 agent Colonel Jack Burns presumes B-127 to be a hostile invader and attacks, driving B-127 into the forest, where he is then ambushed by the Decepticon Blitzwing. When B-127 refuses to reveal Optimus whereabouts, Blitzwing spitefully tears out his voice-box and damages his memory core. B-127 manages to destroy Blitzwing before collapsing from his wounds.</item>
+        <item>After losing Vanessa (Morena Baccarin), the love of his life, 4th-wall breaking mercenary Wade Wilson aka Deadpool (Ryan Reynolds) must assemble a team and protect a young, full-figured mutant Russell Collins aka Firefist (Julian Dennison) from Cable (Josh Brolin), a no-nonsense, dangerous cyborg from the future, and must also learn the most important lesson of all: to be part of a family again.</item>
+        <item>Goku and Vegeta encounter Broly, a Saiyan warrior unlike any fighter they\'ve faced before.</item>
+        <item>After three years, the business of Muslihat, who has retired as a thug, has a problem. Sales decline. Muslihat also faces new problems when Safira, her only daughter, grows up in adolescence and begins to be visited by boys. A bigger problem: frictions between his former subordinates.</item>
+        <item>When Hiccup discovers Toothless isn\'t the only Night Fury, he must seek \"The Hidden World\", a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.</item>
+    </string-array>
+
+    <string-array name="data_movies_rating">
+        <item>R</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>R</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>R</item>
+        <item>PG</item>
+        <item>13+</item>
+        <item>PG</item>
+    </string-array>
+
+    <string-array name="data_movies_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_dragon</item>
+    </string-array>
+</resources>

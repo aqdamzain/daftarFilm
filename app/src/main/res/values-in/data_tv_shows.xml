@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="data_tv_shows_name">
+        <item>Arrow</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>The Flash</item>
+        <item>Game of Thrones</item>
+        <item>Gotham</item>
+        <item>Iron Fist</item>
+        <item>Naruto: Shippuden</item>
+        <item>The Simpsons</item>
+        <item>The Walking Dead</item>
+    </string-array>
+
+    <string-array name="data_tv_shows_year">
+        <item>2012</item>
+        <item>1986</item>
+        <item>2009</item>
+        <item>2014</item>
+        <item>2011</item>
+        <item>2014</item>
+        <item>2017</item>
+        <item>2007</item>
+        <item>1989</item>
+        <item>2010</item>
+    </string-array>
+
+    <string-array name="data_tv_shows_type">
+        <item>TV</item>
+        <item>TV</item>
+        <item>TV</item>
+        <item>TV</item>
+        <item>TV</item>
+        <item>TV</item>
+        <item>TV</item>
+        <item>TV</item>
+        <item>TV</item>
+        <item>TV</item>
+    </string-array>
+
+    <string-array name="data_tv_shows_duration">
+        <item>42menit</item>
+        <item>24menit</item>
+        <item>24menit</item>
+        <item>43menit</item>
+        <item>57menit</item>
+        <item>42menit</item>
+        <item>55menit</item>
+        <item>24menit</item>
+        <item>22menit</item>
+        <item>44menit</item>
+    </string-array>
+
+    <string-array name="data_tv_shows_genre">
+        <item>Aksi, Petualangan, Kriminal, Drama, Misteri, Sains Fiksi</item>
+        <item>Animasi, Aksi, Petualangan, Komedi, Fantasi, Sains Fiksi, Thriller</item>
+        <item>Animasi, Action, Petualangan, Komedi, Fantasi</item>
+        <item>Aksi, Petualangan, Drama, Sains Fiksi</item>
+        <item>Aksi, Petualangan, Drama, Fantasi, Romance</item>
+        <item>Aksi, Kriminal, Drama, Misteri, Sains Fiksi, Thriller</item>
+        <item>Aksi, Petualangan, Kriminal, Fantasi, Sains Fiksi</item>
+        <item>Aksi, Aksi, Petualangan, Komedi, Drama, Fantasi</item>
+        <item>Animasi, Komedi</item>
+        <item>Drama, Horror, Thriller</item>
+    </string-array>
+
+    <string-array name="data_tv_shows_language">
+        <item>English</item>
+        <item>Japanese</item>
+        <item>Japanese, English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English, Russian, Italian, French</item>
+        <item>English, Mandarin, Japanese, Russian, Korean</item>
+        <item>Japanese, English</item>
+        <item>English, Spanish, French, Japanese, German, Mandarin, Arabic, Russian</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="data_tv_shows_synopsis">
+        <item>Oliver Queen dan ayahnya tersesat di laut ketika kapal pesiar mewah mereka tenggelam, rupanya dalam badai.
+            Ayahnya meninggal, tetapi Oliver bertahan selama lima tahun di pulau yang belum dipetakan dan akhirnya kembali
+            ke rumah. Tetapi dia tidak sendirian di pulau itu di mana dia belajar tidak hanya bagaimana berjuang dan bertahan
+            hidup, tetapi juga korupsi ayahnya dan transaksi bisnis yang tidak bermoral. Ia kembali ke peradaban sebagai
+            manusia yang telah berubah, bertekad untuk memperbaikinya. Dia menyamar dengan tudung salah satu mentor pulau
+            misteriusnya, mempersenjatai diri dengan busur dan mulai memburu pria dan wanita yang telah merusak kotanya.</item>
+        <item>Apa yang berawal sebagai pengulangan aneh legenda Cina Perjalanan ke Barat dengan cepat berubah menjadi kegilaan murni. Pada versi memutar Bumi, anak-pejuang yang
+            kuat dan kuat Son Goku bergabung dengan beberapa teman dalam pencarian untuk tujuh bola naga, yang, ketika berkumpul, akan memanggil Naga Besar, yang akan memberikan
+            satu bola kepada pembawa satu bola ingin. Masalahnya adalah, Grand Dragon hanya dapat dipanggil setahun sekali, dan penjahat bertarung dengan Goku dan teman-temannya
+            terus-menerus karena memiliki Dragon Ball.</item>
+        <item>Di negeri mistis Fiore, sihir ada sebagai bagian penting dari kehidupan sehari-hari. Guild sihir yang tak terhitung terletak pada inti dari semua kegiatan magis,
+            dan berfungsi sebagai tempat bagi penyihir yang berpikiran sama untuk bersatu dan menerima permintaan pekerjaan. Di antara mereka, Fairy Tail menonjol dari yang lain
+            sebagai tempat kekuatan, semangat, dan keluarga. Lucy Heartfilia adalah penyihir muda yang mencari kunci gerbang langit, dan mimpinya adalah menjadi penyihir dengan bergabung
+            dengan guild terkenal ini. Dalam pencariannya, dia bertemu Natsu Dragneel dan Happy, rekannya, yang sedang dalam pencarian untuk menemukan ayah angkat Natsu, sang naga Igneel.</item>
+        <item>Barry Allen adalah ilmuwan forensik polisi Central City dengan kehidupan yang cukup bahagia, meskipun trauma masa kanak-kanak merah dan kuning misterius membunuh ibunya
+            dan membingkai ayahnya. Semua itu berubah ketika kecelakaan akselerator partikel besar menyebabkan Barry disambar petir di labnya. Keluar dari koma sembilan bulan kemudian,
+            Barry dan teman-teman barunya di laboratorium S.T.A.R menemukan bahwa ia sekarang memiliki kemampuan untuk bergerak dengan kecepatan manusia super. Lebih jauh, Barry mengetahui
+            bahwa dia hanyalah satu dari banyak yang terpengaruh oleh peristiwa itu, yang kebanyakan menggunakan kekuatan mereka untuk kejahatan. Bertekad untuk membuat perbedaan, Barry
+            mendedikasikan hidupnya untuk melawan ancaman seperti itu, seperti The Flash. Sementara dia mendapatkan sekutu yang tidak pernah dia duga, ada juga pasukan rahasia yang bertekad
+            untuk membantu dan memanipulasi dirinya untuk agenda mereka sendiri.</item>
+        <item>Tujuh keluarga bangsawan berjuang untuk menguasai tanah mitos Westeros. Gesekan antara rumah-rumah mengarah ke perang skala penuh. Semua sementara kejahatan yang sangat kuno
+            terbangun di utara terjauh. Di tengah-tengah perang, perintah militer yang diabaikan, Night Watch, adalah yang berdiri di antara alam manusia dan kengerian es di luarnya.</item>
+        <item>Kisah di balik kebangkitan Detektif James Gordon menjadi terkenal di Gotham City pada tahun-tahun sebelum kedatangan Batman.</item>
+        <item>Danny Rand kembali ke New York City setelah hilang selama bertahun-tahun, mencoba untuk terhubung kembali dengan masa lalunya dan warisan keluarganya. Dia bertarung melawan
+            elemen kriminal merusak dunianya di sekitarnya dengan penguasaan kungfu yang luar biasa dan kemampuan untuk memanggil kekuatan luar biasa dari Iron Fist yang berapi-api.</item>
+        <item>Naruto Uzumaki, adalah seorang ninja yang keras, hiperaktif, remaja yang terus-menerus mencari persetujuan dan pengakuan, serta menjadi Hokage, yang diakui sebagai
+            pemimpin dan terkuat dari semua ninja di desa.</item>
+        <item>Petualangan menyindir dari keluarga kelas pekerja di kota Springfield yang tidak sesuai.</item>
+        <item>Wakil Sheriff Rick Grimes bangun dari koma untuk mengetahui bahwa dunia ini hancur, dan harus memimpin sekelompok orang yang selamat untuk tetap hidup.</item>
+    </string-array>
+
+    <string-array name="data_tv_shows_rating">
+        <item>TV-14</item>
+        <item>TV-Y7</item>
+        <item>TV-14</item>
+        <item>TV-PG</item>
+        <item>TV-MA</item>
+        <item>TV-14</item>
+        <item>TV-MA</item>
+        <item>TV-14</item>
+        <item>TV-PG</item>
+        <item>TV-MA</item>
+    </string-array>
+
+    <string-array name="data_tv_shows_photo">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_the_walking_dead</item>
+    </string-array>
+</resources>

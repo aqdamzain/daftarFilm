@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+
+        <string-array name="data_movies_name">
+            <item>A Star Is Born</item>
+            <item>Aquaman</item>
+            <item>Avengers: Infinity War</item>
+            <item>Bird Box</item>
+            <item>Bohemian Rhapsody</item>
+            <item>Bumblebee</item>
+            <item>Deadpool 2</item>
+            <item>Dragon Ball Super: Broly</item>
+            <item>Preman Pensiun</item>
+            <item>How to Train Your Dragon: The Hidden World</item>
+        </string-array>
+
+        <string-array name="data_movies_year">
+            <item>2018</item>
+            <item>2018</item>
+            <item>2018</item>
+            <item>2018</item>
+            <item>2018</item>
+            <item>2018</item>
+            <item>2018</item>
+            <item>2018</item>
+            <item>2019</item>
+            <item>2019</item>
+        </string-array>
+
+        <string-array name="data_movies_type">
+            <item>Movie</item>
+            <item>Movie</item>
+            <item>Movie</item>
+            <item>Movie</item>
+            <item>Movie</item>
+            <item>Movie</item>
+            <item>Movie</item>
+            <item>Movie</item>
+            <item>Movie</item>
+            <item>Movie</item>
+        </string-array>
+
+        <string-array name="data_movies_duration">
+            <item>2jam 16menit</item>
+            <item>2jam 23menit</item>
+            <item>2jam 29menit</item>
+            <item>2jam 4menit</item>
+            <item>2jam 14menit</item>
+            <item>1jam 54menit</item>
+            <item>1jam 59menit</item>
+            <item>1jam 40menit</item>
+            <item>1jam 34menit</item>
+            <item>1jam 44menit</item>
+        </string-array>
+
+        <string-array name="data_movies_genre">
+            <item>Drama, Musik, Romansa</item>
+            <item>Aksi, Petualangan, Fantasi, Sains Fiksi</item>
+            <item>Aksi, Petualangan, Sains Fiksi</item>
+            <item>Drama, Horror, Sains Fiksi</item>
+            <item>Biografi, Drama, Music</item>
+            <item>Aksi, Petualangan, Sains Fiksi</item>
+            <item>Aksi, Petualangan, Komedi, Sains Fiksi</item>
+            <item>Animasi, Aksi, Petualangan, Keluarga, Fantasi, ains Fiksi</item>
+            <item>CKomedi, Drama</item>
+            <item>Animatisi, Aksi, Petualangan, Keluarga, Fantasi</item>
+        </string-array>
+
+        <string-array name="data_movies_language">
+            <item>English</item>
+            <item>English, Russian, Maori, Italian</item>
+            <item>English</item>
+            <item>English</item>
+            <item>English</item>
+            <item>English</item>
+            <item>English, Cantonese, Spanish, Russian</item>
+            <item>Japanese, English</item>
+            <item>Indonesia</item>
+            <item>English</item>
+        </string-array>
+
+        <string-array name="data_movies_synopsis">
+            <item>Jackson Maine, penyanyi rock country terkenal yang secara pribadi berjuang melawan kecanduan alkohol dan
+                narkoba, memainkan konser. Dukungan utamanya adalah Bobby, manajernya dan kakak tirinya.
+                Setelah sebuah pertunjukan, Jack, mencari minuman berikutnya, mengunjungi bar tarik di mana ia menyaksikan
+                pertunjukan penghormatan kepada Edith Piaf, oleh Ally, seorang pelayan dan penyanyi-penulis lagu.
+                Jack kagum dengan penampilannya, dan mereka menghabiskan malam berbicara satu sama lain, di mana Ally
+                mengungkapkan kepadanya usahanya yang gagal dalam mengejar karir musik profesional. Ally berbagi dengan
+                Jack beberapa lirik yang telah dia kerjakan, dan Jack memberi tahu Ally bahwa dia adalah penulis lagu yang
+                berbakat dan harus melakukan materi sendiri.</item>
+            <item>Arthur Curry, setengah manusia dari Atlantis, melakukan perjalanan seumur hidup. Petualangan ini tidak
+                hanya memaksanya untuk berdamai dengan identitas aslinya, tetapi juga memaksanya untuk menemukan apakah dia
+                sepenuhnya layak memenuhi takdirnya sendiri: menjadi seorang raja.</item>
+            <item>As the Avengers and their allies have continued to protect the world from threats too large for any one
+                hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy,
+                his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his
+                twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of
+                Earth and existence has never been more uncertain.</item>
+            <item>Lima tahun setelah kehadiran tak terlihat yang tak menyenangkan membuat sebagian besar masyarakat bunuh diri,
+                seorang ibu dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.</item>
+            <item>Bohemian Rhapsody adalah perayaan Queen yang menghentak, musik mereka dan vokalis mereka yang luar biasa
+                Freddie Mercury. Freddie menentang stereotip dan menghancurkan konvensi untuk menjadi salah satu penghibur
+                paling dicintai di planet ini. Film ini melacak kebangkitan band melalui lagu-lagu ikonik dan suara
+                revolusioner mereka. Mereka mencapai kesuksesan yang tak tertandingi, tetapi pada gilirannya yang tak terduga
+                Freddie, dikelilingi oleh pengaruh yang lebih gelap, menghindar Queen dalam mengejar karir solonya. Setelah
+                sangat menderita tanpa kolaborasi Ratu, Freddie berhasil bersatu kembali dengan teman-teman bandnya tepat
+                waktu untuk Live Aid. Sementara dengan berani menghadapi diagnosis AIDS baru-baru ini, Freddie memimpin band
+                di salah satu pertunjukan terbesar dalam sejarah musik rock. Queen semen warisan yang terus menginspirasi
+                orang luar, pemimpi dan pecinta musik hingga hari ini.</item>
+            <item>Di Cybertron, Autobots, yang dipimpin oleh Optimus Prime, berada di ambang kehilangan Perang Cybertronian
+                Besar kepada musuh-musuh mereka, Decepticons, dan mulai membuat persiapan untuk meninggalkan planet ini.
+                Decepticons yang dipimpin oleh Shockwave, Soundwave dan Starscream menyergap mereka selama evakuasi, dan
+                Optimus mengirimkan pengintai muda, B-127, ke Bumi untuk mendirikan basis operasi di mana Autobots dapat
+                berkumpul kembali. B-127 mencapai Bumi sendirian pada tahun 1987, crash-landing di California dan mengganggu
+                latihan pelatihan yang dilakukan oleh Sektor 7, sebuah agen rahasia pemerintah yang memantau aktivitas luar
+                angkasa di Bumi. Agen sektor 7 Kolonel Jack Burns menganggap B-127 sebagai penyerang dan serangan yang
+                bermusuhan, mendorong B-127 ke dalam hutan, di mana ia kemudian disergap oleh Decepticon Blitzwing. Ketika
+                B-127 menolak untuk mengungkapkan keberadaan Optimus, Blitzwing dengan hati-hati mengeluarkan kotak suara
+                dan merusak inti ingatannya. B-127 berhasil menghancurkan Blitzwing sebelum pingsan karena lukanya.</item>
+            <item>Setelah kehilangan Vanessa (Morena Baccarin), cinta dalam hidupnya, tentara bayaran melanggar dinding
+                ke-4 Wade Wilson alias Deadpool (Ryan Reynolds) harus membentuk tim dan melindungi mutan muda bernama
+                Russell Collins alias Pemadam Kebakaran (Julian Dennison) dari Cable. (Josh Brolin), cyborg yang tidak
+                masuk akal, berbahaya dari masa depan, dan juga harus mempelajari pelajaran terpenting: menjadi bagian
+                dari keluarga lagi.</item>
+            <item>Goku dan Vegeta bertemu Broly, seorang prajurit Saiyan tidak seperti petarung yang pernah mereka hadapi
+                sebelumnya.</item>
+            <item>Setelah tiga tahun, bisnis Muslihat, yang telah pensiun sebagai preman, memiliki masalah. Penurunan
+                penjualan. Muslihat juga menghadapi masalah baru ketika Safira, satu-satunya anak perempuannya, tumbuh
+                dewasa dan mulai dikunjungi oleh anak laki-laki. Masalah yang lebih besar: gesekan antara mantan bawahannya.</item>
+            <item>Ketika Hiccup menemukan Toothless bukan satu-satunya Night Fury, ia harus mencari "Dunia Tersembunyi", Utopia Naga
+                rahasia sebelum seorang tiran sewaan bernama Grimmel menemukannya terlebih dahulu.</item>
+        </string-array>
+
+        <string-array name="data_movies_rating">
+            <item>R</item>
+            <item>PG-13</item>
+            <item>PG-13</item>
+            <item>R</item>
+            <item>PG-13</item>
+            <item>PG-13</item>
+            <item>R</item>
+            <item>PG</item>
+            <item>13+</item>
+            <item>PG</item>
+        </string-array>
+
+        <string-array name="data_movies_photo">
+            <item>@drawable/poster_a_star</item>
+            <item>@drawable/poster_aquaman</item>
+            <item>@drawable/poster_avengerinfinity</item>
+            <item>@drawable/poster_birdbox</item>
+            <item>@drawable/poster_bohemian</item>
+            <item>@drawable/poster_bumblebee</item>
+            <item>@drawable/poster_deadpool</item>
+            <item>@drawable/poster_dragonball</item>
+            <item>@drawable/poster_preman</item>
+            <item>@drawable/poster_dragon</item>
+        </string-array>
+</resources>

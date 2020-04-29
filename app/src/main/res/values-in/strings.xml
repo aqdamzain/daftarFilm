@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Daftar Film</string>
+
+    <string name="movie">Nama Film</string>
+    <string name="years">Tahun rilis</string>
+    <string name="duration">Durasi</string>
+    <string name="time">waktu</string>
+    <string name="genre">Genre</string>
+    <string name="_genre">tipe dari genre</string>
+    <string name="like">Suka</string>
+    <string name="share">Bagikan</string>
+    <string name="synopsis">Konten Sinopsis</string>
+    <string name="type">Tipe</string>
+    <string name="language">Bahasa</string>
+    <string name="rating">Kelas</string>
+    <string name="types">Tipe</string>
+    <string name="durations">Durasi</string>
+    <string name="releases">Rilis</string>
+    <string name="languages">Bahasa</string>
+    <string name="genres">Genres</string>
+    <string name="ratings">Kelas</string>
+
+    <string name="tab_text_1">Bioskop</string>
+    <string name="tab_text_2">acara TV</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+</resources>
